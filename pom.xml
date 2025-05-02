@@ -10,6 +10,9 @@
     <name>MSproject</name>
     <packaging>war</packaging>
 
+
+
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.8</maven.compiler.target> <!-- Change to 1.8 or 11 -->
